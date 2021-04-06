@@ -297,6 +297,10 @@ o.order_date between TO_DATE('2015-01-01','yyyy-mm-dd') and TO_DATE('2015-05-01'
 
 ![pic5](pic5.png)
 
+## 解释计划
+
+![pic6](pic6.png)
+
 ## 查看数据库的使用情况
 
 以下样例查看表空间的数据库文件，以及每个文件的磁盘占用情况。
