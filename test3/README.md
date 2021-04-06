@@ -287,6 +287,16 @@ a.ORDER_ID=b.order_id and
 a.order_date between to_date('2017-1-1','yyyy-mm-dd') and to_date('2018-6-1','yyyy-mm-dd');
 ```
 
+## 查询是否插入数据成功
+
+```sql
+select d.id,o.order_date from order_details d,orders o 
+where d.order_id =o.order_id and
+o.order_date between TO_DATE('2015-01-01','yyyy-mm-dd') and TO_DATE('2015-05-01','yyyy-mm-dd');
+```
+
+![pic5](pic5.png)
+
 ## 查看数据库的使用情况
 
 以下样例查看表空间的数据库文件，以及每个文件的磁盘占用情况。
