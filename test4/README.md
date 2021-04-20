@@ -120,6 +120,18 @@
 
   ![pic5](pic5.png)
 
+- 测试相关内容与截图
+
+  ![pic8](pic8.png)
+
+  ![pic9](pic9.png)
+
+  ![pic10](pic10.png)![pic11](pic11.png)
+
+  ![pic12](pic12.png)
+
+  ![pic13](pic13.png)
+
 ## 实验注意事项，完成时间： 2021-4-30日前上交
 
 - 请按时完成实验，过时扣分。
